@@ -38,5 +38,5 @@ The study identifies seven key geomorphological processes contributing to the fo
 ## Potential Hazards
 This research also highlights potential hazards associated with seafloor forms, such as damage to submarine cables and pipes, landslides causing flooding, erosion hazards, sediment build-up, and rock instability.
 
-## Recommendations for Further Studies
+## Recommendation
 The study recommends further exploration, particularly in the western region of the Maltese Islands, including the Malta Graben, Sicily Channel, and Malta Plateau. Additionally, a comprehensive substrate database for the region could enhance understanding of seafloor changes over time.
