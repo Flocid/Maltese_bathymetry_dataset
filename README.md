@@ -10,7 +10,7 @@ The dataset comprises information on 19 distinct seafloor forms in the study are
 
 Data compilation involved extracting information from the literature and organizing it using QGIS. Two essential formats are provided for your convenience:
 
-- **GeoJSON for Feature Preview:** Explore a visual representation of the seafloor forms by checking the [GeoJSON preview](link_to_geojson).
+- **GeoJSON for Feature Preview:** Explore a visual representation of the seafloor forms by checking the [GeoJSON preview](https://github.com/Flocid/Maltese_bathymetry_dataset/tree/main/GeoJSON).
 
 - **Shapefiles:** The dataset is available in Shapefiles, containing crucial information on various seafloor forms. These files can be utilized for in-depth analysis using GIS software.
 
