@@ -30,7 +30,7 @@ The dataset includes the following seafloor forms:
 - Solution Subsidence Structures
 
 ## Data Organization
-The dataset includes shapefiles and GeoJSON files for feature preview, which provide a comprehensive view of the identified seafloor forms in the study.
+The dataset include shapefiles and GeoJSON files for feature preview, which provide a comprehensive view of the identified seafloor forms in the study.
 
 ## Geomorphological Processes
 The study identifies seven key geomorphological processes contributing to the formation of the seafloor forms. These processes include erosional and depositional forces, tectonic activities, volcanic events, water currents, fluid migration, slope instability, and karst processes.
